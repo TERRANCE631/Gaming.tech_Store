@@ -1,0 +1,425 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Samsung 32 Odyssey OLED G8",
+      "description": "32-inch 4K OLED gaming monitor with 1ms response time.",
+      "price": 8899.99,
+      "brand": "Samsung",
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hqc4QPhoN1nlP8hOOOJxxpG1JsMZ01s4Qw&s",
+      "sale": true,
+      "category": "Monitor",
+      "in_stork": true,
+      "best_seller": false,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10002,
+      "name": "OLED G9 49-inch G91SD QHD Curved Gaming Monitor",
+      "description": "49-inch Curved OLED monitor for immersive gameplay.",
+      "price": 10000.99,
+      "brand": "Samsung US",
+      "rating": 4.9,
+      "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/oled/ls49dg910snxza/G91SD_Badge_scom.jpg?$product-details-jpg$",
+      "sale": false,
+      "category": "Monitor",
+      "in_stork": true,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10003,
+      "name": "32-Inch 4K QD-OLED Monitor",
+      "description": "32-inch curved OLED gaming monitor with 144Hz refresh rate.",
+      "price": 6999.99,
+      "brand": "Alienware",
+      "rating": 4.5,
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66eb23a2ca2c2634bb3d5a93/AW3225QF-Alienware-Gaming-Monitor/960x0.png?format=png&width=960",
+      "sale": true,
+      "category": "Monitor",
+      "in_stork": false,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10004,
+      "name": "Gaming Keyboard Pro",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 1200,
+      "brand": "KeyGear",
+      "rating": 4.7,
+      "image": "/Assets/Keyboards/Keyboard-Canyon-Deimos-GK-4-Rainbow-US-Wired-Black-1-768x768.png",
+      "sale": false,
+      "category": "Keyboard",
+      "in_stork": false,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10005,
+      "name": "Gaming Keyboard Pro x100",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 1500,
+      "brand": "SmoothKeys",
+      "rating": 4.7,
+      "image": "/Assets/Keyboards/razer_cynosa_lite_2019_packshot_front_1-768x590.jpg",
+      "sale": false,
+      "category": "Keyboard",
+      "in_stork": true,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10006,
+      "name": "Gaming mechanical keyboard",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 1299,
+      "brand": "Hot Gear",
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSEDJU3utuCimqe69oA1T0PgSK0ryMzCSgEw&s",
+      "sale": false,
+      "category": "Keyboard",
+      "in_stork": true,
+      "best_seller": false,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10007,
+      "name": "RGB Gaming Mouse",
+      "description": "Wired Ergonomic Computer Mouse with Programmable Buttons.",
+      "price": 999.99,
+      "brand": "MouseMaster",
+      "rating": 4.6,
+      "image": "/Assets/Mice/CANYON-FORTNAX-MOUSE-BLACK-768x605.jpg",
+      "sale": true,
+      "category": "Mouse",
+      "in_stork": false,
+      "best_seller": false,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10008,
+      "name": "Gaming Mouse X100",
+      "description": "High-precision wireless gaming mouse.",
+      "price": 999.99,
+      "brand": "MouseMaster",
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnW-JBibWeMYWxjzTzCdteZE7Uf78FV0tonBiQip3cBAKk-O84mJtrCsJlGQD9qh_4i8&usqp=CAU",
+      "sale": true,
+      "category": "Mouse",
+      "in_stork": false,
+      "best_seller": false,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 10009,
+      "name": "Gaming M&K CXT20",
+      "description": "High-precision wired gaming mouse and keyboard.",
+      "price": 779.99,
+      "brand": "MouseMaster",
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnW-JBibWeMYWxjzTzCdteZE7Uf78FV0tonBiQip3cBAKk-O84mJtrCsJlGQD9qh_4i8&usqp=CAU",
+      "sale": true,
+      "category": "Gaming_Combo",
+      "in_stork": false,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100010,
+      "name": "Gaming Combo CX100",
+      "description": "High-precision gaming mouse and keyboard fast and smooth buttons.",
+      "price": 899.99,
+      "brand": "GamingMaster",
+      "rating": 4.2,
+      "image": "https://m.media-amazon.com/images/I/71VgQOM7uFL._AC_SL1500_.jpg",
+      "sale": false,
+      "category": "Gaming_Combo",
+      "in_stork": true,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100011,
+      "name": "LED Backlit Cx20 Gaming Mouse & Keyboard",
+      "description": "LED Backlit Gaming Keyboard and Mouse Combo for PC/Laptop.",
+      "price": 999.99,
+      "brand": "GamingMaster",
+      "rating": 4.6,
+      "image": "https://m.media-amazon.com/images/I/71JGWNw9ahL._AC_SL1500_.jpg",
+      "sale": false,
+      "category": "Gaming_Combo",
+      "in_stork": false,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100012,
+      "name": "EA Sports FC 25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1000.99,
+      "brand": "GamingMaster",
+      "rating": 4.4,
+      "image": "/Assets/Games/EA-Sports-FC-25-1.jpg",
+      "sale": true,
+      "category": "Games",
+      "in_stork": false,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100013,
+      "name": "Call Of Duty Black Ops 6",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 1598.99,
+      "brand": "GamingMaster",
+      "rating": 4.2,
+      "image": "/Assets/Games/Call-Of-Duty-Black-Ops-6-1.jpg",
+      "sale": false,
+      "category": "Games",
+      "in_stork": true,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100014,
+      "name": "Batman Arkham Knight",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 599.99,
+      "brand": "GamingMaster",
+      "rating": 4.9,
+      "image": "/Assets/Games/Batman-Arkham-Knight-1.jpg",
+      "sale": false,
+      "category": "Games",
+      "in_stork": false,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100015,
+      "name": "NBA 2K25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 499.99,
+      "brand": "GamingMaster",
+      "rating": 4.2,
+      "image": "/Assets/Games/NBA-2K25-1.jpg",
+      "sale": false,
+      "category": "Games",
+      "in_stork": true,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    },
+    {
+      "id": 100016,
+      "name": "Assassins Creed 3 Remastered",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 999.99,
+      "brand": "GamingMaster",
+      "rating": 4.3,
+      "image": "/Assets/Games/Assassins-Creed-3-Remastered-1.jpg",
+      "sale": false,
+      "category": "Games",
+      "in_stork": true,
+      "best_seller": true,
+      "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+    }
+  ],
+  "users": [
+    {
+      "email": "Terrance@example.com",
+      "password": "$2a$10$hA0az199SOGE0woAeLkVTuufI9f9yDixWDMvmjwLVoaqnz.T10OzG",
+      "name": "Terrance",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlcnJhbmNlQGV4YW1wbGUuY29tIiwiaWF0IjoxNzM0NzE1OTA5LCJleHAiOjE3MzQ3MTk1MDksInN1YiI6IjEifQ.tBgtEfgpqkVvarpv49cuPz1bz0lWi4Z85s-Y_X08y2s",
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "quantity": 1,
+      "amount_paid": 10000.99,
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "OLED G9 49-inch G91SD QHD Curved Gaming Monitor",
+          "description": "49-inch Curved OLED monitor for immersive gameplay.",
+          "price": 10000.99,
+          "brand": "Samsung US",
+          "rating": 4.9,
+          "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/oled/ls49dg910snxza/G91SD_Badge_scom.jpg?$product-details-jpg$",
+          "sale": false,
+          "category": "Monitor",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        }
+      ],
+      "user": {
+        "name": "Terrance",
+        "email": "Terrance@example.com",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "quantity": 1,
+      "amount_paid": 10000.99,
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "OLED G9 49-inch G91SD QHD Curved Gaming Monitor",
+          "description": "49-inch Curved OLED monitor for immersive gameplay.",
+          "price": 10000.99,
+          "brand": "Samsung US",
+          "rating": 4.9,
+          "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/oled/ls49dg910snxza/G91SD_Badge_scom.jpg?$product-details-jpg$",
+          "sale": false,
+          "category": "Monitor",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        }
+      ],
+      "user": {
+        "name": "Terrance",
+        "email": "Terrance@example.com",
+        "id": 1
+      },
+      "id": 2
+    },
+    {
+      "quantity": 1,
+      "amount_paid": 10000.99,
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "OLED G9 49-inch G91SD QHD Curved Gaming Monitor",
+          "description": "49-inch Curved OLED monitor for immersive gameplay.",
+          "price": 10000.99,
+          "brand": "Samsung US",
+          "rating": 4.9,
+          "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/oled/ls49dg910snxza/G91SD_Badge_scom.jpg?$product-details-jpg$",
+          "sale": false,
+          "category": "Monitor",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        }
+      ],
+      "user": {
+        "name": "Terrance",
+        "email": "Terrance@example.com",
+        "id": 1
+      },
+      "id": 3
+    },
+    {
+      "quantity": 5,
+      "amount_paid": 22599.97,
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "OLED G9 49-inch G91SD QHD Curved Gaming Monitor",
+          "description": "49-inch Curved OLED monitor for immersive gameplay.",
+          "price": 10000.99,
+          "brand": "Samsung US",
+          "rating": 4.9,
+          "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/oled/ls49dg910snxza/G91SD_Badge_scom.jpg?$product-details-jpg$",
+          "sale": false,
+          "category": "Monitor",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        },
+        {
+          "id": 10001,
+          "name": "Samsung 32 Odyssey OLED G8",
+          "description": "32-inch 4K OLED gaming monitor with 1ms response time.",
+          "price": 8899.99,
+          "brand": "Samsung",
+          "rating": 4.8,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hqc4QPhoN1nlP8hOOOJxxpG1JsMZ01s4Qw&s",
+          "sale": true,
+          "category": "Monitor",
+          "in_stork": true,
+          "best_seller": false,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        },
+        {
+          "id": 10006,
+          "name": "Gaming mechanical keyboard",
+          "description": "Mechanical gaming keyboard with RGB lighting.",
+          "price": 1299,
+          "brand": "Hot Gear",
+          "rating": 4.7,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSEDJU3utuCimqe69oA1T0PgSK0ryMzCSgEw&s",
+          "sale": false,
+          "category": "Keyboard",
+          "in_stork": true,
+          "best_seller": false,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        },
+        {
+          "id": 10005,
+          "name": "Gaming Keyboard Pro x100",
+          "description": "Mechanical gaming keyboard with RGB lighting.",
+          "price": 1500,
+          "brand": "SmoothKeys",
+          "rating": 4.7,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_uwgqZQsGtbf4An3sNCYqJlESrOYQH-kow&s",
+          "sale": false,
+          "category": "Keyboard",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        },
+        {
+          "id": 100010,
+          "name": "Gaming Combo CX100",
+          "description": "High-precision gaming mouse and keyboard fast and smooth buttons.",
+          "price": 899.99,
+          "brand": "GamingMaster",
+          "rating": 4.6,
+          "image": "https://m.media-amazon.com/images/I/71VgQOM7uFL._AC_SL1500_.jpg",
+          "sale": false,
+          "category": "Gaming_Combo",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        }
+      ],
+      "user": {
+        "name": "Terrance",
+        "email": "Terrance@example.com",
+        "id": 1
+      },
+      "id": 4
+    },
+    {
+      "quantity": 1,
+      "amount_paid": 10000.99,
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "OLED G9 49-inch G91SD QHD Curved Gaming Monitor",
+          "description": "49-inch Curved OLED monitor for immersive gameplay.",
+          "price": 10000.99,
+          "brand": "Samsung US",
+          "rating": 4.9,
+          "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/oled/ls49dg910snxza/G91SD_Badge_scom.jpg?$product-details-jpg$",
+          "sale": false,
+          "category": "Monitor",
+          "in_stork": true,
+          "best_seller": true,
+          "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ab error quod sapiente ipsa quaerat harum voluptatum accusantium! Iusto repudiandae ullam fuga alias laborum quis facilis aut soluta autem eaque beatae, reprehenderit similique! Eos, odit. Quibusdam consectetur quis aliquam?"
+        }
+      ],
+      "user": {
+        "name": "Terrance",
+        "email": "Terrance@example.com",
+        "id": 1
+      },
+      "id": 5
+    }
+  ]
+}
