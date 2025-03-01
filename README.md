@@ -1,1 +1,0 @@
-Run "npm start" on the first terminal and run "node server" on the second terminal 
